@@ -25,7 +25,7 @@
 * NUI (Natural User Interface)
   - 키보드, 마우스 없이 신체 부위 이용. 터치나 음성
 
-![oui_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/3.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/3.png" alt="oui_ex" style="zoom:50%;" />
 
 * OUI (Organic User Interface)
   - 현실에 존재하는 모든 사물이 입출력 장치로 변화할 수 있는 UI
@@ -94,11 +94,13 @@
 
   - 보이지 않는 도메인 안과 같은 추상적인 개념을 기술하기 위한 용도 
 
-    ![class_ex1](UI 요구사항 확인, UI 설계를 위한 UML.assets/5-16558869169511.PNG)
+    <img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/5.PNG" alt="class_ex" style="zoom:50%;" />
+    
 
   - 소프트웨어의 설계 혹은 완성된 소프트웨어의 구현 설명을 위한 용도
 
-    ![class_ex2](UI 요구사항 확인, UI 설계를 위한 UML.assets/6.PNG)
+    <img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/6.PNG" alt="class_ex" />
+    
 
 * 클래스 다이어그램 구성요소
   - 클래스(class): 공통적인 속성이나 메서드, 관계, 의미를 공유하는 객체들의 집합. 비슷비슷한 애들
@@ -111,7 +113,7 @@
 
 #### 2. 유스케이스 (usecase)
 
-![usecase_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/7.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/7.PNG" alt="class_ex" />
 
 - 시스템의 기능, 서비스 및 이와 관련된 외부 요소 등을 사용자의 관점에서 표현하는 것
 - 한마디로 사용자랑 시스템 사이의 관계를 나타내는 것
@@ -138,7 +140,7 @@
 
 #### 4. 패키지(package)
 
-![package_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/9.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/9.PNG" alt="pack_ex" />
 
 - 시스템의 서로 다른 패키지들 사이 의존 관계를 표현하기 위한 다이어그램
 - 패키지 다이어그램 구성요소
@@ -149,7 +151,7 @@
 
 #### 5. 활동(activity)
 
-![act_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/10.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/10.PNG" alt="act_ex" />
 
 - 시스템이 어떤 기능을 수행하는지를 객체의 처리 로직 또는 조건에 따른 처리의 흐름을 순서대로 표현
 - 하나의 유스케이스 안 또는 유스케이스 사이에서 발생하는 복잡한 처리의 흐름을 명확하게 표현할 수 있다.
@@ -168,7 +170,7 @@
 
 #### 6. 상태(state)
 
-![state_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/11.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/11.PNG" alt="state_ex" />
 
 - 하나의 객체가 자신이 속한 클래스의 상태 변화 혹은 다른 객체와의 상호 작용에 따라 상태가 어떻게 변화하는지 표현하는 다이어그램
 - 어떤 이벤트에 의해 객체 자신이 속한 클래스의 상태 변화 또는 객체 간 상호 작용하는 과정에서의 상태 변화 표현
@@ -185,7 +187,7 @@
 
 #### 7. 커뮤니케이션(communication)
 
-![commu_ex](UI 요구사항 확인, UI 설계를 위한 UML.assets/12.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/12.PNG" alt="commu_ex" />
 
 - 시퀀스 다이어그램처럼 동작에 참여하는 객체들이 주고받는 메시지 + 객체 간 연관까지 표현하는 다이어그램.
 - 커뮤니케이션 다이어그램 구성요소
@@ -198,7 +200,7 @@
 
 #### 8. 컴포넌트(component)
 
-![compo_ec](UI 요구사항 확인, UI 설계를 위한 UML.assets/13.png)
+<img src="UI 요구사항 확인, UI 설계를 위한 UML.assets/13.PNG" alt="compo_ex" />
 
 - 시스템을 구성하는 물리적인 컴포넌트 사이의 의존 관계를 나타내는 다이어그램
 
